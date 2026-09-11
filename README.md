@@ -9,6 +9,7 @@ Pat McCollough currently serves the City of Jacksonville in the administration o
 
 # U.S. Civil Rights Trail
 
-.ve-iframe style=height:500px src=https://civilrightstrail.com/
+.ve-iframe style=height:500px src=https://civilrightstrail.com/ allowtransparency=0 frameboarder=0 loading=eager
+
 .ve-iframe style=height:500px src=https://hebuano.com/ allowtransparency= frameborder=0 loading=eager
 
