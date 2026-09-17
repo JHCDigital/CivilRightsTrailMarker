@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt=" " width="40%">
+  <img src="" alt="https://github.com/user-attachments/assets/dd2c56fe-0b4a-4073-948e-41cf59a9a2d5" width="40%">
 </p>
 <h1 align="center">The Jacksonville History Center Presents: U.S. Civil Rights Trail Markers</h1>
 
