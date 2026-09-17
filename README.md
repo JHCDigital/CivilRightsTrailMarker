@@ -21,9 +21,16 @@ Pat McCollough knew that getting Jacksonville recognized as a Civil Rights Trail
 
 # Axe Handle Saturday
 
+This speaker series was intentionally held on August 27, 2026 to remember how sixty-six years ago, Jacksonville experienced a terrifying and violent attack against Black protestors in its very own Hemming Park. The attack on August 27, 1960, was firstly targeted at the Jacksonville Youth Council of the National Association for the Advancement of Colored People (NAACP). They had gained the attention of the assailants due to their organized lunch counter demonstrations. Over 200 white men planned this attack, wielding axe handles and baseball bats, ready to strike members of the NAACP. As the white mob intensified, their assaults spread through downtown to any Black Jacksonvillian in sight. The police did nothing to break up the brutality in front of them until a Black street gang called "The Boomerangs" stepped into try and protect those being beaten. Police were quick to antagonize the gang and those fighting the white men back. Eventually the victims were able to seek refuge in the Snyder Memorial Methodist Episcopal Church. The city tried to bury this dark memory of Jacksonville history. Rodney L. Hurst Sr. was a young activist and visionary that often led the peaceful protests that were organized by the NAACP. He decided to publish a book in 2008 on his perspective of that day titled "It Was Never About a Hotdog and a Coke". Soon more stories were released, allowing Jacksonvilians to remember their history and understand this part of the city's struggle for racial equality. On August 11, 2020, Hemming Park was renamed James Weldon Johnson Park and the city removed the Confederate monument.
+
+To understand more about what happened during Axe Handle Saturday please click the play button to be redirected to a short film about the event that was produced by Bill Retherford and the Jacksonville History Center.
+
+
 [![Ax Handle Saturday, 50 Years Later](https://thumbs.video-to-markdown.com/f2276cef.jpg)](https://youtu.be/q8xY-2oqcX4) 
 
-<p align="center">
+Decades after the attack, Jacksonville placed an official historical marker at James Weldon Johnson Park to make sure that this event would never be forgotten. The plaque honors the bravery of the NAACP Youth Council and recognizes their vital role in the desegregation of Jacksonville lunch counters. It also serves as a reminder of the blood shed at the site and acknowledges the city's strife for racial justice. 
+
+<p align="left">
   <img src="https://github.com/user-attachments/assets/2b08b035-5861-4048-b502-c54182701663" alt=" " width="40%">
   </p>
 
