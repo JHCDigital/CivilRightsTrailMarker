@@ -9,11 +9,21 @@ Pat McCollough currently serves the City of Jacksonville in the administration o
 
 # U.S. Civil Rights Trail
 
-### 🗺️ Civil Rights Trail Route Network
+### 🗺️ Civil Rights Trail Route Network (Labeled Landmarks)
 
 [![U.S. Civil Rights Trail Route Map](https://googleapis.com)](https://google.com)
 
-*👆 **Click the map graphic above** to open the live interactive route navigation on Google Maps.*
+#### 📌 Marker Legend:
+* **[B]** - **Brown v. Board of Ed** (Topeka, KS)
+* **[M]** - **National Civil Rights Museum / Lorraine Motel** (Memphis, TN)
+* **[H]** - **16th Street Baptist Church** (Birmingham, AL)
+* **[P]** - **Rosa Parks Museum** (Montgomery, AL)
+* **[K]** - **MLK Jr. National Historical Park** (Atlanta, GA)
+* **[J]** - **Jacksonville Civil Rights Trail Hub** (Jacksonville, FL)
+* **[W]** - **Lincoln Memorial / March on Washington** (Washington, D.C.)
+
+*👆 **Click the map graphic above** to launch live turn-by-turn route navigation on Google Maps.*
+
 
 
 
