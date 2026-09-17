@@ -9,12 +9,9 @@ Pat McCollough currently serves the City of Jacksonville in the administration o
 
 # U.S. Civil Rights Trail
 
-<iframe 
-  class="ve-iframe" 
-  src="https://civilrightstrail.com" 
-  style="width: 100; height: 500; border: none; border-radius: 8;" 
-  loading="eager">
-</iframe>
+[Explore the U.S. Civil Rights Trail](https://civilrightstrail.com/)
+
+[![Visit the Civil Rights Trail](https://shields.io)](https://civilrightstrail.com/)
 
 The U.S. Civil Rights Trail comprises over 130 landmark sites spanning 15 Southern and Midwestern states, along with Washington, D.C. The U.S. Civil Rights Trail was created to honor the people, places, and events that helped propel the fight against racial discrimination during the 1950's and 1960's. Some places in history can be read; others can be felt. The Trail encourages people to engage with the local history that is on the corners of their downtowns and neighborhoods. Historic Black churches where people gathered and found sanctuary. Downtowns in courthouses where people demanded their right to vote. Community centers where neighborhoods, educators, business owners, and community leaders organized for change. The Trail reaches beyond textbook education and lets people know exactly what history occurred on the ground beneath their feet. 
 
