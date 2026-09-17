@@ -9,9 +9,19 @@ Pat McCollough currently serves the City of Jacksonville in the administration o
 
 # U.S. Civil Rights Trail
 
-[Explore the U.S. Civil Rights Trail](https://civilrightstrail.com/)
+# 🗺️ Complete U.S. Civil Rights Trail Network Itinerary
+This expanded matrix maps the foundational boundary points of the national trail alongside the major **2026 Florida Expansion Hub**. Click any location anchor to view coordinates, historical multimedia, and visitor access hours.
 
-[![Visit the Civil Rights Trail](https://shields.io)](https://civilrightstrail.com/)
+| Region / Hub | Key City & Booking Anchor | Essential Historic Sites & Landmarks |
+| :---: | :--- | :--- |
+| **Midwest Anchor** | 📍 **[Topeka, Kansas](https://civilrightstrail.com/ "US Civil Rights Trail")** | • **[Brown v. Board of Education National Historical Park](https://civilrightstrail.com/ "US Civil Rights Trail")** |
+| **Upper South** | 📍 **[Memphis, Tennessee](https://civilrightstrail.com "Civil Rights Trail Memphis")** | • **[National Civil Rights Museum](https://civilrightstrail.com/ "US Civil Rights Trail")** (Lorraine Motel)<br>• Clayborn Temple |
+| **Deep South Hub** | 📍 **[Birmingham, Alabama](https://civilrightstrail.com "Civil Rights Trail Birmingham")** | • **[16th Street Baptist Church](https://civilrightstrail.com/ "US Civil Rights Trail")**<br>• Birmingham Civil Rights Institute |
+| **Deep South Hub** | 📍 **[Selma & Montgomery, AL](https://civilrightstrail.com "Civil Rights Trail Montgomery")** | • **[Edmund Pettus Bridge](https://civilrightstrail.com/ "US Civil Rights Trail")** (Selma)<br>• **[Rosa Parks Museum](https://civilrightstrail.com/ "US Civil Rights Trail")** (Montgomery) |
+| **East Coast Hub** | 📍 **[Atlanta, Georgia](https://civilrightstrail.com "Civil Rights Trail Atlanta")** | • **[Martin Luther King Jr. National Historical Park](https://civilrightstrail.com/ "US Civil Rights Trail")** |
+| **Capital Anchor** | 📍 **[Washington, D.C.](https://civilrightstrail.com/ "US Civil Rights Trail")** | • **[Lincoln Memorial](https://civilrightstrail.com/ "US Civil Rights Trail")** (March on Washington site)<br>• NMAAHC |
+| **🔥 2026 Feature** | 📍 **[Jacksonville, Florida](https://civilrightstrail.com/attraction/jacksonville-civil-rights-trail-the-legacy-project/ "Jacksonville Civil Rights Trail")** | • **[Mt. Ararat Baptist Church](https://civilrightstrail.com/ "US Civil Rights Trail")** (MLK Jr. 1961 Sermon Site)<br>• **[James Weldon Johnson Park](https://civilrightstrail.com/ "US Civil Rights Trail")** (Axe Handle Saturday Marker)<br>• Downtown Lunch Counter Sit-In Trail (Woolworth's Site) |
+
 
 The U.S. Civil Rights Trail comprises over 130 landmark sites spanning 15 Southern and Midwestern states, along with Washington, D.C. The U.S. Civil Rights Trail was created to honor the people, places, and events that helped propel the fight against racial discrimination during the 1950's and 1960's. Some places in history can be read; others can be felt. The Trail encourages people to engage with the local history that is on the corners of their downtowns and neighborhoods. Historic Black churches where people gathered and found sanctuary. Downtowns in courthouses where people demanded their right to vote. Community centers where neighborhoods, educators, business owners, and community leaders organized for change. The Trail reaches beyond textbook education and lets people know exactly what history occurred on the ground beneath their feet. 
 
