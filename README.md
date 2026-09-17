@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="" alt="https://github.com/user-attachments/assets/6d2b61ea-6b66-4121-aa9c-527eae790f51" width="40%">
+  <img src="https://github.com/user-attachments/assets/9c6f6798-c537-4f5e-a626-7bcb5e7c6638" alt=" " width="40%">
 </p>
-<h1 align="center">The Jacksonville History Center Presents: U.S. Civil Rights Trail Markers</h1>
+<h1 align="center">The Jacksonville History Center Presents: U.S. Civil Rights Trail</h1>
 
 # Introducing the Speaker
 ## Pat McCollough
