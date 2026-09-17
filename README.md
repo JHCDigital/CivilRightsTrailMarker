@@ -28,7 +28,7 @@ To understand more about what happened during Axe Handle Saturday please click t
 
 [![Ax Handle Saturday, 50 Years Later](https://thumbs.video-to-markdown.com/f2276cef.jpg)](https://youtu.be/q8xY-2oqcX4) 
 
-Decades after the attack, Jacksonville placed an official historical marker at James Weldon Johnson Park to make sure that this event would never be forgotten. The plaque honors the bravery of the NAACP Youth Council and recognizes their vital role in the desegregation of Jacksonville lunch counters. It also serves as a reminder of the blood shed at the site and acknowledges the city's strife for racial justice. 
+Decades after the attack, Jacksonville placed an official historical marker at James Weldon Johnson Park to make sure that this event would never be forgotten. The plaque honors the bravery of the NAACP Youth Council and recognizes their vital role in the desegregation of Jacksonville lunch counters. It also serves as a reminder of the blood shed at the site and acknowledges the city's stride toward racial justice. 
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/2b08b035-5861-4048-b502-c54182701663" alt=" " width="40%">
