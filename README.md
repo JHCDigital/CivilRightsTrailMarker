@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b08b035-5861-4048-b502-c54182701663" alt=" " width="40%">
+  <img src="" alt=" " width="40%">
 </p>
 <h1 align="center">The Jacksonville History Center Presents: U.S. Civil Rights Trail Markers</h1>
 
@@ -20,7 +20,9 @@ Visit the U.S. Civil Rights Trail explore page here! https://civilrightstrail.co
 Pat McCollough knew that getting Jacksonville recognized as a Civil Rights Trail City was about more than just placing historical markers around the city. It was about making sure Jacksonville's collective memory stayed healthy in acknowledging the city's role in the Civil Rights Movement. She knew that Jacksonville had powerful stories that needed to be preserved and passed down to the next generation. McCollough stressed the importance of having younger people involved in the project of getting Jacksonville on the Trail. As she spearheaded the efforts to research Jacksonville's civil rights history she made sure to make room for the team of interns that were employed to help with the documentation. This process was done far before the application was sent in. The expressive efforts of McCoullough and her team paved the way for the city's formal application that was submitted July 2025. In February 2026 the city proudly began installing the plaques during Black History Month. There are planned to be 40 markers spanning across Jacksonville, cementing it as a Civil Rights City. 
 
 # Axe Handle Saturday
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b08b035-5861-4048-b502-c54182701663" alt=" " width="40%">
+  </p>
 
 # The Exhibit
 
