@@ -37,15 +37,15 @@ Decades after the attack, Jacksonville placed an official historical marker at J
 # The Exhibit
 
 This speaker series exhibit was curated by the Jacksonville History Center's own research archivist, Jason Robilio.
-    <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/8ffc7437-d34e-4a7e-b8d6-9f08f72589b7" alt=" " width="40%">
   </p>
 
-    <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/579d5cbe-980a-428b-a770-13c2b734a612" alt=" " width="30%">
   </p>
   
-    <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/b78dfef5-f7c5-4517-a417-29b3df9c2f5a" alt=" " width="40%">
   </p>
 
