@@ -23,7 +23,7 @@ Pat McCollough knew that getting Jacksonville recognized as a Civil Rights Trail
 
 This speaker series was intentionally held on August 27, 2026 to remember how sixty-six years ago, Jacksonville experienced a terrifying and violent attack against Black protestors in its very own Hemming Park. The attack on August 27, 1960, was firstly targeted at the Jacksonville Youth Council of the National Association for the Advancement of Colored People (NAACP). They had gained the attention of the assailants due to their organized lunch counter demonstrations. Over 200 white men planned this attack, wielding axe handles and baseball bats, ready to strike members of the NAACP. As the white mob intensified, their assaults spread through downtown to any Black Jacksonvillian in sight. The police did nothing to break up the brutality in front of them until a Black street gang called "The Boomerangs" stepped into try and protect those being beaten. Police were quick to antagonize the gang and those fighting the white men back. Eventually the victims were able to seek refuge in the Snyder Memorial Methodist Episcopal Church. The city tried to bury this dark memory of Jacksonville history. Rodney L. Hurst Sr. was a young activist and visionary that often led the peaceful protests that were organized by the NAACP. He decided to publish a book in 2008 on his perspective of that day titled "It Was Never About a Hotdog and a Coke". Soon more stories were released, allowing Jacksonvilians to remember their history and understand this part of the city's struggle for racial equality. On August 11, 2020, Hemming Park was renamed James Weldon Johnson Park and the city removed the Confederate monument.
 
-To understand more about what happened during Axe Handle Saturday please click the play button to be redirected to a short film about the event that was produced by Bill Retherford and the Jacksonville History Center.
+To understand more about what happened during Axe Handle Saturday please click the play button to be redirected to a short film about the event that was produced by Bill Retherford and the Jacksonville History Center. The Jacksonville History Center gave out free copies of the film at the event.
 
 
 [![Ax Handle Saturday, 50 Years Later](https://thumbs.video-to-markdown.com/f2276cef.jpg)](https://youtu.be/q8xY-2oqcX4) 
@@ -60,10 +60,14 @@ The Jacksonville History Center was honored to host the Civil Rights Trail Marke
 # Gallery
 <details>
   <summary>Click to view Gallery</summary>
-  <img src="https://github.com/user-attachments/assets/9a6d9bb0-149f-4540-ad9f-ff8dc9988fcd">
-  <img src= >
-    <img src= >
-  <img src= >
+   <img src="https://github.com/user-attachments/assets/f2959667-c9d3-4800-a46d-044a16367697">
+     <img src="https://github.com/user-attachments/assets/a12cb515-0e08-4460-8a7e-d9f51a11d0ea">
+  <img src="https://github.com/user-attachments/assets/81d837a9-cd64-4d40-8969-98d135147ddb">
+  <img src="https://github.com/user-attachments/assets/d97ffead-259b-4ca3-b60e-e206f87eacb8">
+    <img src="https://github.com/user-attachments/assets/bb198009-11cf-4b5d-8ebb-bb56f1c1e4d0">
+  <img src="https://github.com/user-attachments/assets/cdbafb57-484c-48a2-ae0e-67f5fcdb614a">
+      <img src="https://github.com/user-attachments/assets/9a6d9bb0-149f-4540-ad9f-ff8dc9988fcd">
+ 
   
 </details>
 
