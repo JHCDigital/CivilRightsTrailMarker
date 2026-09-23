@@ -42,7 +42,11 @@ This speaker series exhibit was curated by the Jacksonville History Center's own
   </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/579d5cbe-980a-428b-a770-13c2b734a612" alt=" " width="30%">
+  <img src="https://github.com/user-attachments/assets/579d5cbe-980a-428b-a770-13c2b734a612" alt=" " width="40%">
+  </p>
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f9bac3d-a7d2-4d11-8663-8bde959ee3e2" alt=" " width="40%">
   </p>
   
 <p align="center">
