@@ -37,10 +37,29 @@ Decades after the attack, Jacksonville placed an official historical marker at J
 # The Exhibit
 
 This speaker series exhibit was curated by the Jacksonville History Center's own research archivist, Jason Robilio.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ffc7437-d34e-4a7e-b8d6-9f08f72589b7" alt=" " width="40%">
+  </p>
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1e5c623-edd1-447d-aa84-a238137a8744" alt=" " width="40%">
+  </p>
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85d2ab69-366a-4603-88f2-a9c7a6129db2" alt=" " width="40%">
+  </p>
 
 # Event Reception
 
 The Jacksonville History Center was honored to host the Civil Rights Trail Marker speaker series with Pat McCollough. McCollough provided an in depth conversation about the process of recognizing Jacksonville as a civil rights city. McCollough and her team's research shed light on stories Jacksonville won't soon forget. After the speaker's presentation, McCollough engaged the audience through a Q&A along side JHC CEO Dr. Allan Bliss. The event had [] attendees. Many of which were involved in the practice of preserving Jacksonville's history. Catering was provided by the JHC's Merrill House Museum coordinator, Nancy Gandy. It's very meaningful to host programs highlighting the current historical projects happening around our city. The JHC is proud to be able to engage in such esteemed members of the Jacksonville history community.
 
 # Gallery
+<details>
+  <summary>Click to view Gallery</summary>
+  <img src="https://github.com/user-attachments/assets/9a6d9bb0-149f-4540-ad9f-ff8dc9988fcd">
+  <img src= >
+    <img src= >
+  <img src= >
+  
+</details>
 
