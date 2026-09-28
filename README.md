@@ -36,7 +36,8 @@ Decades after the attack, Jacksonville placed an official historical marker at J
 
 # The Exhibit
 
-This speaker series exhibit was curated by the Jacksonville History Center's own research archivist, Jason Robilio.
+This speaker series exhibit was curated by the Jacksonville History Center's own research archivist, Jason Robilio. The Civil Rights Movement is integral to the city of Jacksonville’s story. It is important to preserve the impacts of the movement by upholding the health of Jacksonville’s collective memory. This exhibit highlights some of the most important stories of the fight for Civil Rights in Jacksonville. It includes publications and artifacts of moments, people, industries, and sites that defined Jacksonville’s Civil Rights journey.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ffc7437-d34e-4a7e-b8d6-9f08f72589b7" alt=" " width="40%">
   </p>
